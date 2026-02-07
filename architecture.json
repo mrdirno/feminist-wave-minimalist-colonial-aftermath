@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_minimalist_colonial_aftermath",
+  "title": "The Bone House",
+  "tagline": "An inheritance of dust and memory forces a woman to confront the ghosts of empire in her own blood.",
+  "target_words": 70000,
+  "actual_words": 76983,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Inheritance as Haunting",
+    "The Body as Archive",
+    "Land as Palimpsest",
+    "The Violence of Forgetting"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Bone",
+      "words": 3200
+    },
+    {
+      "ch": 2,
+      "title": "The Path",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The Hammering",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "The Ledger",
+      "words": 3300
+    },
+    {
+      "ch": 5,
+      "title": "The Well",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "The Photograph",
+      "words": 2800
+    },
+    {
+      "ch": 7,
+      "title": "The Story",
+      "words": 3500
+    },
+    {
+      "ch": 8,
+      "title": "The Boundary",
+      "words": 3200
+    },
+    {
+      "ch": 9,
+      "title": "The Fever",
+      "words": 3000
+    },
+    {
+      "ch": 10,
+      "title": "The Dream",
+      "words": 2900
+    },
+    {
+      "ch": 11,
+      "title": "The Dig",
+      "words": 3400
+    },
+    {
+      "ch": 12,
+      "title": "The Choice",
+      "words": 3600
+    },
+    {
+      "ch": 13,
+      "title": "The Fire",
+      "words": 3100
+    },
+    {
+      "ch": 14,
+      "title": "The Aftermath",
+      "words": 2800
+    },
+    {
+      "ch": 15,
+      "title": "The Confession",
+      "words": 3700
+    },
+    {
+      "ch": 16,
+      "title": "The Map",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "The River",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "The Names",
+      "words": 3500
+    },
+    {
+      "ch": 19,
+      "title": "The Offer",
+      "words": 3300
+    },
+    {
+      "ch": 20,
+      "title": "The Storm",
+      "words": 4000
+    },
+    {
+      "ch": 21,
+      "title": "The Clearing",
+      "words": 3100
+    },
+    {
+      "ch": 22,
+      "title": "The Letting Go",
+      "words": 2800
+    },
+    {
+      "ch": 23,
+      "title": "The Seed",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "The New Ground",
+      "words": 3700
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a single, mundane object in the house (like the chipped blue plate) that holds a suppressed family history. Show, don't tell, the colonial relationship embedded in its journey.",
+      "Compose a dialogue between Ada and Iris where a 'gift' (like the coconut) is exchanged. Let the subtext reveal the complex power dynamics of hospitality, obligation, and historical debt.",
+      "Write a monologue from the perspective of the land itself, describing the house's decay and Ada's arrival not as events, but as sensations, pressures, and slow reclamations.",
+      "Create a 'found document'—a page from a diary, a solicitor's letter, a plant press—that Ada discovers. Let its language (formal, personal, bureaucratic) contradict the official history of the place."
+    ],
+    "technical": [
+      "Build a 'Palimpsest Map' interactive layer: a digital map of the house and grounds where users can toggle between eras (pre-colonial ecology, plantation layout, post-colonial decay, Ada's present) to visualize the layers of occupation and erasure.",
+      "Develop a 'Minimalist Dialogue Generator' tool that strips dialogue of exposition, forcing the writer to convey colonial tension and feminist resistance through subtext, silence, and the weight of what is left unsaid."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jamaica Kincaid",
+      "Annie Ernaux",
+      "Kazuo Ishiguro",
+      "Toni Morrison"
+    ]
+  },
+  "cover_prompt": "A solitary woman stands in the center of an empty, decaying colonial ballroom, her back to the viewer, her hands tracing the dust-covered outlines of ghostly furniture that is both present and absent, a spectral architecture of memory, [Detailed Scene & Context: the floorboards are cracked like dried earth, revealing layers of soil and fragmented bone beneath the polished veneer, and the walls are a palimpsest of peeling floral wallpaper over colonial maps and older, indigenous rock art markings], [Artistic Style & Medium: in the atmospheric, hauntingly minimalist style of Toyin Ojih Odutola's early drawings, with the textured, layered quality of mixed-media collage and subtle figurative abstraction], [Composition & Camera: book cover framing, a perfectly centered and symmetrical composition viewed from a low-angle to emphasize the towering, oppressive height of the room and the woman's small, resilient presence within it], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single, high window casting long, sharp shadows, with a muted, sepia-toned color palette of bone white, ash grey, dried blood rust, and deep, archival indigo], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
